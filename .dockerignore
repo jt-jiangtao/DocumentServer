@@ -1,0 +1,13 @@
+.git
+**/.git
+core/
+core-fonts/
+dictionaries/
+document-templates/
+sdkjs-plugins/
+build_tools/tools/
+build_tools/out/
+server/**/node_modules/
+sdkjs/**/node_modules/
+web-apps/**/node_modules/
+**/.DS_Store
